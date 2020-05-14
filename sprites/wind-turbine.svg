@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:docname="wind-turbine.svg"
+   viewBox="0 0 1200 1070"
+   version="1.1"
+   inkscape:version="0.92.5 (0.92.5+68)"
+   width="1200"
+   height="1070">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3834"
+       y2="630.15002"
+       gradientUnits="userSpaceOnUse"
+       x2="474.01999"
+       y1="630.15002"
+       x1="251.28"
+       inkscape:collect="always"
+       gradientTransform="translate(-7.68469,-86)">
+      <stop
+         id="stop3830"
+         style="stop-color:#cccccc;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3840"
+         style="stop-color:#cccccc;stop-opacity:1"
+         offset=".125" />
+      <stop
+         id="stop3836"
+         style="stop-color:#cccccc"
+         offset=".5" />
+      <stop
+         id="stop3832"
+         style="stop-color:#cccccc;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="24"
+     fit-margin-left="0"
+     pagecolor="#ffffff"
+     inkscape:window-height="1056"
+     inkscape:window-maximized="1"
+     inkscape:zoom="0.57080078"
+     inkscape:window-x="65"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="777.51015"
+     inkscape:cy="663.06028"
+     fit-margin-top="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1855"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px" />
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(-17.756,69.192986)">
+    <g
+       id="g835"
+       transform="translate(264.51242,-85.992986)">
+      <path
+         d="m 318.17531,167.48 h 73.581 l 17.519,746.32 h -119.13 z"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:url(#linearGradient3834);fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round"
+         sodipodi:nodetypes="ccccc"
+         id="rect3057" />
+      <g
+         transform="rotate(14.661404,677.04319,244.92747)"
+         id="g823">
+        <path
+           id="path3051"
+           style="opacity:1;fill:#b3b3b3;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round"
+           sodipodi:type="star"
+           sodipodi:sides="3"
+           inkscape:transform-center-x="44.887427"
+           sodipodi:r1="346.8634"
+           sodipodi:r2="52.029507"
+           inkscape:transform-center-y="44.887427"
+           sodipodi:arg1="1.3089969"
+           sodipodi:arg2="2.3561945"
+           transform="translate(276.8,70.077)"
+           inkscape:randomized="0"
+           sodipodi:cy="214.94217"
+           sodipodi:cx="77.084686"
+           inkscape:rounded="0.07"
+           inkscape:flatsided="false"
+           d="M 166.85955,549.98649 C 144.95255,555.85645 56.331311,267.76963 40.294269,251.73259 24.257227,235.69555 -263.8296,147.07433 -257.95964,125.16733 -252.08967,103.26032 41.711454,170.55549 63.61846,164.68552 85.525465,158.81556 306.3171,-46.364346 322.35414,-30.327305 338.39118,-14.290264 133.21129,206.50139 127.34133,228.4084 c -5.86996,21.907 61.42523,315.70812 39.51822,321.57809 z" />
+        <circle
+           r="33.286572"
+           cy="293.77878"
+           cx="366.15225"
+           id="path3053"
+           style="opacity:1;fill:#cccccc;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round"
+           transform="translate(-11.199,-9.8245)" />
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>wind generator</dc:title>
+        <dc:date>2010-12-13T14:46:07</dc:date>
+        <dc:description />
+        <dc:source>https://openclipart.org/detail/100513/wind-generator-by-ovideva</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>ovideva</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>electricity</rdf:li>
+            <rdf:li>generator</rdf:li>
+            <rdf:li>wind</rdf:li>
+            <rdf:li>windmill</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
